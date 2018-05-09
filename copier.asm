@@ -2,7 +2,7 @@ begin:
 mov bx, ax
 add bx, start
 start:
-;---you can insert here what do you want, it will copy:---
+;---you can insert here what do you want, it will copy(, just don't change the bx register):---
 
 
 ;---up to here...
